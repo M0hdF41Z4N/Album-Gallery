@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import AlbumCard from "./album_card";
 import Skeleton from "react-loading-skeleton";  
+import "react-loading-skeleton/dist/skeleton.css";
 
 
 // Album List Component
